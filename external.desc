@@ -1,0 +1,2 @@
+name: QEMU_RISCV_HWBREAKPOINTS
+desc: Test distro for testing RISC-V hardware breakpoints
