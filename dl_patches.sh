@@ -1,1 +1,1 @@
-wget https://patchwork.kernel.org/series/1139439/mbox/ -O board/qemu/riscv32_virt_hardware_breakpoints/patches/linux/riscv-Introduce-support-for-hardware-break-watchpoints.patch
+wget https://patchwork.kernel.org/series/1134260/mbox/ -O board/qemu/riscv_virt_hardware_breakpoints/patches/linux/riscv-hwprobe-report-per-process-extension-availability.patch
